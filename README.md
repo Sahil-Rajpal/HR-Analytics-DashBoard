@@ -19,19 +19,6 @@ The **HR Analytics Dashboard** is an interactive Power BI dashboard that provide
   - Attrition by Job Role
   - Gender-based Attrition
 
-## 🚀 Installation
-1. Install **Power BI Desktop** if you haven’t already.
-2. Clone this repository or download the project files.
-   ```sh
-   git clone https://github.com/your-repo/hr-analytics-dashboard.git
-   ```
-3. Open the `.pbix` file in Power BI Desktop.
-
-## 📌 Usage
-- Use the **department filters** to analyze attrition trends in specific areas.
-- Explore different graphs to understand factors affecting employee turnover.
-- Compare attrition by salary, education, and years at the company.
-
 ## 📊 Key Insights
 - **Highest Attrition by Age Group**: Employees aged **26-35** have the highest attrition (116 cases).
 - **Attrition by Salary**: The majority of attrition cases fall within the **Upto 5K salary bracket** (163 cases).
@@ -48,6 +35,3 @@ The **HR Analytics Dashboard** is an interactive Power BI dashboard that provide
 This HR Analytics Dashboard provides valuable insights into employee attrition trends, helping organizations make data-driven decisions to improve workforce retention. Future improvements could include adding **predictive analytics** and **AI-driven insights** for better forecasting.
 
 ---
-
-📌 **Developed by:** [Your Name]  
-📧 **Contact:** your.email@example.com
