@@ -3,6 +3,11 @@
 ## 📝 Project Overview
 The **HR Analytics Dashboard** is an interactive Power BI dashboard that provides key insights into employee attrition across different departments. It helps HR professionals and business leaders analyze employee turnover trends and make data-driven decisions.
 
+## 🖼️ Dashboard Preview
+![HR Analytics Dashboard](https://github.com/Sahil-Rajpal/HR-Analytics-DashBoard/blob/main/HR-DashBoard.png)
+
+🔗 **Dataset**: [Download HR Analytics Dataset](https://github.com/Sahil-Rajpal/HR-Analytics-DashBoard/blob/main/HR_Analytics.csv)
+
 ## ✨ Features
 - **Key Metrics Display**: Total employees, attrition count, attrition rate, average age, average salary, and average tenure.
 - **Filters**: Users can filter data by departments such as Human Resources, Research & Development, and Sales.
